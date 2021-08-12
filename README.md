@@ -6,7 +6,7 @@
 
 <p align="center">
   <b>Entry-level front-end developer from Lithuania.</b><br>
-💬 Ask me about: anygthing you want.<br>
+💬 Ask me about: anything you want.<br>
 </p>
 
 <h1 align="left">Languages and Tools:</h1>
