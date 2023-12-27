@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Devidas.</h1>
 
 <p align="center">
-  <b>Front-end developer from Lithuania.</b><br>
+  <b>Full-Stack Developer from Lithuania.</b><br>
 💬 Ask me about: anything you want.<br>
 </p>
 
